@@ -1,0 +1,1 @@
+* * * * * iconic    bash -x /sites/iconic.vc/update.sh > /tmp/iconic.vc_update.log 2>&1
